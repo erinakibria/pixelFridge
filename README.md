@@ -6,5 +6,5 @@
 - various waste monitoing services are availible such as histograms that track waste activity over the current year, and "fridge reports" which generate recipe suggestions based on a user's logged items, and display other information regarding item status
 - an account has been created for demonstrative purposes, using the following credentials:
   - Username: demoUser
-  - Password: Demo#123 
-   
+  - Password: Demo#123
+- database connection file (namely, db.php) is not included in this repository for security purposes 

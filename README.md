@@ -1,5 +1,5 @@
 # pixelFridge
-- URL: http://erinak.me/pixelFridge
+- URL: https://erinak.me/pixelFridge
 - web application developed with HTML, CSS, JavaScript, and PHP with MySQL for database interactions
 - currently hosted on an AWS EC2 ubuntu instance
 - users are able to log new items and can remove and edit attributes as needed
